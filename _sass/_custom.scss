@@ -144,6 +144,13 @@ p {
     --bs-table-accent-bg: rgb(255 255 255 / 5%)!important;
 }
 
+
+/* timeline thumb */
+    .timeline-thumb {
+    max-height: 250px;
+    max-width: 20%;
+}
+
 body {
 font-family: Roboto;
 font-size: 1.2em;
