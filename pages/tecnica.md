@@ -2,6 +2,9 @@
 title: técnica
 layout: cloud
 permalink: /tecnica.html
+cloud-fields: tecnica
+cloud-min: 
+cloud-stopwords:
 ---
 
 ## Búsqueda por técnica
