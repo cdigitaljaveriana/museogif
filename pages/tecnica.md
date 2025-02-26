@@ -2,11 +2,11 @@
 title: tecnica
 layout: cloud
 permalink: /tecnica.html
-# Default subject page is configured in "_data/theme.yml"
-# leave cloud-fields as "site.data.theme.tenica-fields"
-# a cloud visualization will be added below the content in this file
-cloud-fields: site.data.theme.tecnica-fields
+cloud-fields: tecnica
+cloud-min: 1
+cloud-stopwords:
 ---
+
 
 ## Búsqueda por técnica
 
