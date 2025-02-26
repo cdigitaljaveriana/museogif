@@ -3,8 +3,6 @@ title: técnica
 layout: cloud
 permalink: /tecnica.html
 cloud-fields: tecnica
-cloud-min: 
-cloud-stopwords:
 cloud-fields: site.data.theme.tecnica-fields
 ---
 
