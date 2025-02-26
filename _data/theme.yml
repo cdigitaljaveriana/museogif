@@ -39,7 +39,7 @@ locations-stopwords: # set of subjects separated by ; that will be removed from 
 #
 tecnica-fields: tecnica # set the field to be featured in the cloud
 tecnica-min: 1 # min size for subject cloud, too many terms = slow load time!
-tecnica-stopwords: # set of subjects separated by ; that will be removed from display, e.g. boxers;boxing
+tecnica-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g. boxers;boxing
 
 
 ##########
