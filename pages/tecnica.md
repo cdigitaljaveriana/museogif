@@ -1,5 +1,5 @@
 ---
-title: técnica
+title: tecnica
 layout: cloud
 permalink: /tecnica.html
 # Default subject page is configured in "_data/theme.yml"
