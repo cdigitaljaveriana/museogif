@@ -3,3 +3,4 @@ date,Fecha,,,Date
 creator,Autor(a) Original,,,
 subject,Tema,true
 location,Orígenes,true
+tecnica,Técnica,true
