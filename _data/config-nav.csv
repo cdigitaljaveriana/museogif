@@ -1,8 +1,11 @@
 display_name,stub,dropdown_parent
 Inicio,/,
-Colección,/browse.html
+Colección,/browse.html,
 Filtros,,
-Tema,/subjects.html,Orígen,/locations.html,/Técnica,/tecnica.html
-Mapa,/map.html
-Línea de tiempo,/timeline.html
-Datos,/data.html
+Tema,/subjects.html,Tema
+Orígen,/locations.html,Tema
+Técnica,/tecnica.html,Tema
+Mapa,/map.html,
+Línea de tiempo,/timeline.html,
+Datos,/data.html,
+
