@@ -1,9 +1,6 @@
 display_name,stub,dropdown_parent
 Inicio,/
 Colección,/browse.html
-Tema,/subjects.html
-Orígen,/locations.html
-Técnica,/tecnica.html
 Filtros,,
 Tema,/subjects.html,Orígen,/locations.html,/Técnica,/tecnica.html
 Mapa,/map.html
