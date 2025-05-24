@@ -5,7 +5,6 @@ Mapa,/map.html,
 Línea de tiempo,/timeline.html,
 Datos,/data.html/,
 Filtros,,
-Tema,/subjects.html,Tema
-Orígen,/locations.html,Tema
-Técnica,/tecnica.html,Tema
-
+Tema,/subjects.html,Filtros
+Orígen,/locations.html,Filtros
+Técnica,/tecnica.html,Filtros
