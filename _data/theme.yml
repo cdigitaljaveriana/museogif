@@ -47,7 +47,7 @@ tecnica-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g. 
 #
 # see _data/map-config.csv for field display options
 latitude: 5.9424433 #to determine center of map, entre menor el número más sube la imágen
-longitude: 0.2247074 #to determine center of map, entre menos más a la derecha
+longitude: -10.2247074 #to determine center of map, entre menos más a la derecha
 zoom-level: 2.5 # zoom level for map zoom entre menos más lejos
 map-base: Esri_WorldStreetMap # set default base map, choose from: Esri_WorldStreetMap, Esri_NatGeoWorldMap, Esri_WorldImagery 
 map-search: true # true/false, not suggested with large collections
