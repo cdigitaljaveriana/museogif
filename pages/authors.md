@@ -3,10 +3,11 @@ title: Authors
 layout: cloud
 permalink: /authors.html
 cloud-fields: creator
-cloud-min: 
+cloud-min: 1
 cloud-stopwords:
 ---
 
-## Browse Authors
+## Búsqueda por autor original
 
-Example custom cloud page.
+Utilice esta visualización de nube de palabras para buscar por autor original. El tamaño de las palabras está determinado por su frecuencia y todas las palabras enlazan a una búsqueda correspondiente en la colección.
+
