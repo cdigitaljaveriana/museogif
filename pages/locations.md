@@ -10,5 +10,4 @@ cloud-fields: site.data.theme.locations-fields
 
 ## Búsqueda por origen
 
-Utilice esta visualización de nube de palabras para buscar el lugar de origen de las piezas o sus autores.
-El tamaño de las palabras está determinado por la frecuencia y todas las palabras enlazan a una búsqueda correspondiente en la colección.
+Utilice esta visualización de nube de palabras para buscar el lugar de origen de los autores de las obras originales que sirvieron como base para la construcción de esta colección. El tamaño de las palabras está determinado por la frecuencia y todas las palabras enlazan a una búsqueda correspondiente en la colección.
