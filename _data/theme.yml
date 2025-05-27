@@ -49,7 +49,7 @@ tecnica-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g. 
 latitude: 6.9424433 #to determine center of map, entre menor el número más sube la imágen
 longitude: -30.2247074 #to determine center of map, entre menos más a la derecha
 zoom-level: 2.5 # zoom level for map zoom entre menos más lejos
-map-base: Open_StreetMap # set default base map, choose from: Esri_WorldStreetMap, Esri_NatGeoWorldMap, Esri_WorldImagery 
+map-base: Esri_WorldStreetMap # set default base map, choose from: Esri_WorldStreetMap, Esri_NatGeoWorldMap, Esri_WorldImagery 
 map-search: true # true/false, not suggested with large collections
 map-search-fuzziness: 0.35 # fuzzy search range from 1 = anything to 0 = exact match only
 map-cluster: true # true/false, suggested for large collection or with many items in same location
