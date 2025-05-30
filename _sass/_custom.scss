@@ -176,6 +176,7 @@ tbody, td, tfoot, th, thead, tr {
 }
 
 .row {
+    align-items: baseline;
     --bs-gutter-x: 1rem;
     --bs-gutter-y: 0;
     display: flex;
