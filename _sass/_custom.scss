@@ -172,11 +172,11 @@ tbody, td, tfoot, th, thead, tr {
 
 .TL{
     flex: 0 0 auto;
+    align-items: baseline;
     width: 5%;
 }
 
 .row {
-    align-items: baseline;
     --bs-gutter-x: 1rem;
     --bs-gutter-y: 0;
     display: flex;
