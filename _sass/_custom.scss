@@ -164,7 +164,7 @@ background-size: 22px 22px;
 
 
 .img-thumbnail {
-    padding: .8rem;
+    padding: .1rem;
     background-color: #fff;
     border: 1px solid #dee2e6;
     border-radius: 0px;
@@ -202,7 +202,10 @@ tbody, td, tfoot, th, thead, tr {
     border-color: #cedee4!important;
 }
 
-
+.col-lg-4 {
+    flex: 0 0 auto;
+    width: 15%;
+}
 
 
 
