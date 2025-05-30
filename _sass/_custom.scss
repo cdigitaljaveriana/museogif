@@ -376,13 +376,9 @@ background-size: 22px 22px;
 
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
-@media only screen and (min-width: 600px) {
-	
-.TL {
-    flex: 0 0 auto;
-    width: 17%;
+@media only screen and (min-width: 600px) {	
+.TL {width: 17%;}
 	}
-}
 
 
 
