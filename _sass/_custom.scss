@@ -40,6 +40,12 @@ a:hover.btn-outline-primary {
     color: #1e3033!important;
 }
 
+.dropdown-item.active, .dropdown-item:active {
+    color: #243e42;
+    text-decoration: none;
+    background-color: #7fcfdb;
+}
+
 .carousel-item-title {
 	background-color: rgba(255,255,255,0.72);
 	font-size: 1.5em !important;
