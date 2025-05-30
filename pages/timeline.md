@@ -6,3 +6,5 @@ permalink: /timeline.html
 ---
 
 ## Línea de tiempo
+
+Utiliza esta visualización de línea de tiempo para filtrar y explorar la colección según los años de creación de las piezas originales incluidas en cada elemento.
