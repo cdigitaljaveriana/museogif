@@ -172,6 +172,11 @@ tbody, td, tfoot, th, thead, tr {
     margin-left: calc(-.5 * var(--bs-gutter-x));
 }
 
+.bg-info {
+    --bs-bg-opacity: 1;
+    background-color: #7fcfdb!important;
+}
+
 
 body {
 font-family: Roboto;
