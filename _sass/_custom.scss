@@ -40,6 +40,14 @@ a:hover.btn-outline-primary {
     color: #1e3033!important;
 }
 
+.bi {
+    display: inline-block;
+    fill: currentColor;
+    vertical-align: text-bottom;
+    overflow: hidden;
+    background-color: #ddeff2;
+}
+
 .dropdown-item.active, .dropdown-item:active {
     color: #243e42;
     text-decoration: none;
