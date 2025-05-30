@@ -152,7 +152,14 @@ p {
     max-width: 20%;
 }
 
-
+.img-thumbnailTL {
+    padding: .1rem;
+    background-color: #fff;
+    border: 1px solid #e6dee1;
+    border-radius: 0px;
+    max-width: 100%;
+    height: auto;
+}
 
 body {
 font-family: Roboto;
