@@ -2,15 +2,19 @@
     Paste Analytics code snippet here (for example from Matomo) or set google-analytics-id in config.yml
 {% endcomment %}
 <!-- Analytics --> 
+<!-- Google tag (gtag.js) -->
+
+
 {% if site.google-analytics-id %}
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google-analytics-id }}"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-01RZB011Q3"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', '{{ site.google-analytics-id }}', {
-    'anonymize_ip': true
-  });
+
+  gtag('config', 'G-01RZB011Q3');
 </script>
 {%- endif -%}
+
+
