@@ -8,5 +8,5 @@ permalink: /map.html
 
 ## Mapa de orígenes
 
-Lugar de origen de los autores de las obras originales que sirvieron como base para la construcción de esta colección.
+Lugar de origen de los autores de las obras originales que sirvieron como base para la construcción de las animaciones.
 
