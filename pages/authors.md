@@ -9,5 +9,5 @@ cloud-stopwords:
 
 ## Búsqueda por autor original
 
-Utilice esta visualización de nube de palabras para buscar por autor original. El tamaño de las palabras está determinado por su frecuencia y todas las palabras enlazan a una búsqueda correspondiente en la colección.
+Utilice esta visualización de nube de palabras para filtrar por autor original de las piezas del museo. El tamaño de las palabras está determinado por su frecuencia y todas las palabras enlazan a una búsqueda correspondiente en la colección.
 
