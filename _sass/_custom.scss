@@ -7,6 +7,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 
+
+
+
+
 a:hover.btn-outline-primary {
     background-color: white!important;
     border-color: white!important;
@@ -56,6 +60,16 @@ a:hover.btn-outline-primary {
 .carousel-item-title {
 	background-color: rgba(255,255,255,0.72);
 	font-size: 1.5em !important;
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    display: inline-block;
+    width: 2rem;
+    height: 2rem;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: 100% 100%;
+    background-color: #7c8080;
 }
 
 
