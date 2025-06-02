@@ -20,6 +20,7 @@ El proyecto explora conceptos sobre humanidades digitales propuestos por Johanna
 ## Créditos
 
 Pontificia Universidad Javeriana
+
 Museo de la Independencia - Casa del Florero
 
 Docente: 
