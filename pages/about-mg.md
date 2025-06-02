@@ -52,6 +52,6 @@ Valentina Giannini Beninati
 Valentina Triana López
 Valeria Ramirez Mendoza
 
-Plataforma:
+#Plataforma:
 Collection Builder 
 
