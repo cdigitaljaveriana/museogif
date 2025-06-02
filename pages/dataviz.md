@@ -5,7 +5,7 @@ permalink: /dataviz.html
 ---
 ## Analítica visual
 
-Praesent sodales tempor suscipit. Maecenas at euismod nunc. Integer in consectetur neque, at lacinia tellus. Quisque dui lectus, semper sed euismod a, pretium eu diam.
+Análisis visual de los temas tratados en las animaciones de esta colección.
 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/23543847">
