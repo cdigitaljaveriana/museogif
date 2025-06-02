@@ -16,11 +16,10 @@ Esta iniciativa propone digitalizar y datificar piezas museales y utilizar para 
 <br><br>
 
 ## Créditos
-
+<br>
 ### Pontificia Universidad Javeriana
-
+<br>
 ### Museo de la Independencia - Casa del Florero
-
 <br>
 ### Docente: 
 Clementina Grillo
