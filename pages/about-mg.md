@@ -13,15 +13,19 @@ El proyecto MUSEO-GIF: Independencias, ciudadanías y memorias datificadas parte
 
 Esta iniciativa propone digitalizar y datificar piezas museales y utilizar para explorar posibles hallazgos sobre colección permanente del museo. Como parte del ejercicio se revisan conceptos de humanidades digitales de Johanna Drucker y Anne Burdick, los planteamientos de Lev Manovich sobre colecciones digitales y en las perspectivas de Karin van Es y Mirko Tobías Schäfer sobre datificación en la investigación humanística.
 
+<br><br>
+
 ## Créditos
 
 ### Pontificia Universidad Javeriana
 
 ### Museo de la Independencia - Casa del Florero
 
+<br>
 ### Docente: 
 Clementina Grillo
 
+<br>
 ### Estudiantes: 
 Ana Sofía Monroy Linares
 Andrea Victoria Celedón Pedraza
@@ -48,6 +52,7 @@ Valentina Giannini Beninati
 Valentina Triana López
 Valeria Ramirez Mendoza
 
-#Plataforma:
+<br>
+### Plataforma:
 Collection Builder 
 
