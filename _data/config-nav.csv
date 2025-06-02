@@ -1,6 +1,7 @@
 display_name,stub,dropdown_parent
 Inicio,/,
 Colección,/browse.html,
+
 Filtros,,
 Tema,/subjects.html,Filtros
 Técnica,/tecnica.html,Filtros
@@ -8,4 +9,6 @@ Orígen,/locations.html,Filtros
 Autor original,/authors.html,Filtros
 Mapa,/map.html,
 Línea de tiempo,/timeline.html,
-Datos,/data.html,
+Datos,,
+Analítica,/dataviz.html,Datos
+Descargar,/data.html,Datos
