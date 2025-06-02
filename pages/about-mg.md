@@ -23,29 +23,29 @@ _Docente:_
 Clementina Grillo
 <br>
 _Estudiantes:_
-Ana Sofía Monroy Linares
-Andrea Victoria Celedón Pedraza
-Carlos Enrique Rosales Palomeque
-Daniela Torres Gómez
-Felipe Córdoba Bejarano
-Gabriela Jaimes Vargas
-Juan Diego González Jiménez
-Juan Felipe Beltrán Huertas
-Juanita Alejandra Acosta Godoy
-Laura Sofía Tellez Gaona
-Lina maría Muñoz
-Loraine Cavelier Forero
-Maria Camila Obando
-María Fernanda León Vásquez
-María Orozco Benitez
-Mariana Agudelo Martinez
-Mateo Arévalo Rodriguez
-Natalia Sanchez Castañeda
-Simon Ochoa Campos
-Sofia Isabel Bustos Valderrama
-Valentina Delgado Ferro
-Valentina Giannini Beninati
-Valentina Triana López
+Ana Sofía Monroy Linares,
+Andrea Victoria Celedón Pedraza,
+Carlos Enrique Rosales Palomeque,
+Daniela Torres Gómez,
+Felipe Córdoba Bejarano,
+Gabriela Jaimes Vargas,
+Juan Diego González Jiménez,
+Juan Felipe Beltrán Huertas,
+Juanita Alejandra Acosta Godoy,
+Laura Sofía Tellez Gaona,
+Lina maría Muñoz,
+Loraine Cavelier Forero,
+Maria Camila Obando,
+María Fernanda León Vásquez,
+María Orozco Benitez,
+Mariana Agudelo Martine,z
+Mateo Arévalo Rodriguez,
+Natalia Sanchez Castañeda,
+Simon Ochoa Campos,
+Sofia Isabel Bustos Valderrama,
+Valentina Delgado Ferro,
+Valentina Giannini Beninati,
+Valentina Triana López,
 Valeria Ramirez Mendoza
 <br>
 _Plataforma:_
