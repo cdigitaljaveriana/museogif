@@ -27,7 +27,7 @@ function displayItem(record, prev_id, next_id, compound_object) {
     /* get item format for item title */
     var itemFormat;
     if (compound_object.length > 0) {
-        itemFormat = record.format.replace("_", " ").toUpperCase() + ' (' + compound_object.length + ' Items)';
+        itemFormat = record.format.replace("_", " ").toUpperCase() + ' (' + compound_object.length + ' Elementos)';
     } else if (record.format.includes("pdf")) {
         itemFormat = "PDF";
     } else if (record.format.includes("/")) {
