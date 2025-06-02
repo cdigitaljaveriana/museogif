@@ -46,7 +46,7 @@ Sofia Isabel Bustos Valderrama,
 Valentina Delgado Ferro,
 Valentina Giannini Beninati,
 Valentina Triana López,
-Valeria Ramirez Mendoza<br>
+Valeria Ramirez Mendoza.<br>
 
 __Plataforma:__
 Collection Builder<br> 
