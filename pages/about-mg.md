@@ -20,8 +20,8 @@ __Museo de la Independencia - Casa del Florero__<br>
 __Pontificia Universidad Javeriana__
 
 __Docente:__
-Clementina Grillo
-<br>
+Clementina Grillo<br>
+
 __Estudiantes:__
 Ana Sofía Monroy Linares,
 Andrea Victoria Celedón Pedraza,
@@ -46,8 +46,8 @@ Sofia Isabel Bustos Valderrama,
 Valentina Delgado Ferro,
 Valentina Giannini Beninati,
 Valentina Triana López,
-Valeria Ramirez Mendoza
-<br>
+Valeria Ramirez Mendoza<br>
+
 __Plataforma:__
 Collection Builder 
 
