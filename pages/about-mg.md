@@ -49,5 +49,7 @@ Valentina Triana López,
 Valeria Ramirez Mendoza<br>
 
 __Plataforma:__
-Collection Builder 
+Collection Builder<br> 
 
+__Diseño:__
+Clementina Grillo<br> 
