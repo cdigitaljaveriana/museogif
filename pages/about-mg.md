@@ -19,14 +19,14 @@ El proyecto explora conceptos sobre humanidades digitales propuestos por Johanna
 
 ## Créditos
 
-#Pontificia Universidad Javeriana
+# Pontificia Universidad Javeriana
 
-#Museo de la Independencia - Casa del Florero
+# Museo de la Independencia - Casa del Florero
 
-#Docente: 
+# Docente: 
 Clementina Grillo
 
-#Estudiantes: 
+# Estudiantes: 
 Ana Sofía Monroy Linares
 Andrea Victoria Celedón Pedraza
 Carlos Enrique Rosales Palomeque
