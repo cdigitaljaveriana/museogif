@@ -12,7 +12,7 @@
             </div>
         </div>
     </div>
-</div>
+
 
 
  <div class="container mt-4 border rounded p-4 bg-white">
