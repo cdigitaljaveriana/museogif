@@ -16,13 +16,13 @@ Esta iniciativa propone digitalizar y datificar piezas museales y utilizar para 
 <br><br>
 
 ## Créditos
-_Pontificia Universidad Javeriana_
-_Museo de la Independencia - Casa del Florero_
+__Pontificia Universidad Javeriana__
+__Museo de la Independencia - Casa del Florero__
 <br>
-_Docente:_
+__Docente:__
 Clementina Grillo
 <br>
-_Estudiantes:_
+__Estudiantes:__
 Ana Sofía Monroy Linares,
 Andrea Victoria Celedón Pedraza,
 Carlos Enrique Rosales Palomeque,
@@ -48,6 +48,6 @@ Valentina Giannini Beninati,
 Valentina Triana López,
 Valeria Ramirez Mendoza
 <br>
-_Plataforma:_
+__Plataforma:__
 Collection Builder 
 
