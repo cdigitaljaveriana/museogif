@@ -38,7 +38,7 @@ Loraine Cavelier Forero,
 Maria Camila Obando,
 María Fernanda León Vásquez,
 María Orozco Benitez,
-Mariana Agudelo Martine,z
+Mariana Agudelo Martine,
 Mateo Arévalo Rodriguez,
 Natalia Sanchez Castañeda,
 Simon Ochoa Campos,
