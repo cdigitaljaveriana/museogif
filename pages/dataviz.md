@@ -1,6 +1,6 @@
 ---
 title: Analítica Visual
-layout: about
+layout: data
 permalink: /dataviz.html
 ---
 
