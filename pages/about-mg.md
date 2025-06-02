@@ -9,20 +9,6 @@ credits: true
 ---
 {% include feature/nav-menu.html sections="Sobre este proyecto;Créditos;Galería" %}
 
-Include a Card
-Card -- > {% raw %}{% include feature/card.html header="This is a Card" text="The card features an image from the collection as a cap" objectid="demo004" width="25" centered=true %}{% endraw %}
-
-{% include feature/card.html header="This is a Card" text="The card features an image from the collection as a cap" objectid="demo_001" width="25" centered=true %}
-
-{% include feature/card.html header="This is a Card" text="The card features an image from the collection as a cap" objectid="demo_001" width="25" centered=true %}
-
-{% include feature/card.html header="This is a Card" text="The card features an image from the collection as a cap" objectid="demo_001" width="25" centered=true %}
-
-{% include feature/card.html header="This is a Card" text="The card features an image from the collection as a cap" objectid="demo_001" width="25" centered=true %}
-
-{% include feature/card.html header="This is a Card" text="The card features an image from the collection as a cap" objectid="demo_001" width="25" centered=true %}
-
-{% include feature/card.html header="This is a Card" text="The card features an image from the collection as a cap" objectid="demo_001" width="25" centered=true %}
 
 ## Sobre este proyecto
 Praesent sodales tempor suscipit. Maecenas at euismod nunc. Integer in consectetur neque, at lacinia tellus. Quisque dui lectus, semper sed euismod a, pretium eu diam. Quisque quam eros, tempus vel nulla quis, lacinia tincidunt eros. Quisque dictum ornare lacinia. Maecenas ligula metus, iaculis sollicitudin ornare at, mattis eu dolor. Aliquam massa velit, ultrices at dui et, porta pulvinar nibh. 
