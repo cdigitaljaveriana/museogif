@@ -1,53 +1,25 @@
 {% assign imagesample = site.data[site.metadata] | where_exp: 'item','item.format contains "image"' | first %} {% capture imagesampleid %}{{imagesample.objectid | default: "https://www.lib.uidaho.edu/collectionbuilder/demo-objects/mg101_b6_photographs_01.jpg"}}{% endcapture %} {% assign pdfsample = site.data[site.metadata] | where_exp: 'item','item.format contains "pdf"' | first %} {% capture pdfsampleid %}{{pdfsample.objectid | default: "https://www.lib.uidaho.edu/collectionbuilder/demo-objects/uiext21768.pdf"}}{% endcapture %} {% assign videosample = site.data[site.metadata] | where_exp: 'item','item.format contains "video"' | first %} {% capture videosampleid %}{{videosample.objectid | default: "https://cdil.lib.uidaho.edu/storying-extinction/objects/trailcams/videos/ballcreek-cedarrub-birdonpath.mp4"}}{% endcapture %} {% assign audiosample = site.data[site.metadata] | where_exp: 'item','item.format contains "audio"' | first %} {% capture audiosampleid %}{{audiosample.objectid | default: "https://www.lib.uidaho.edu/digital/mp3s/Clouds.mp3"}}{% endcapture %}
 
 ## Créditos
-We want to make engaging interpretive pages easier to create, so CollectionBuilder gives you tools to write with your collection content!
 
-The template comes with a customizable "About" page layout designed for long form content with rich media embeds. Content is written in Markdown and enhanced using "includes" that pull in collection content, external media, and Bootstrap features like cards and modals. We hope this makes it easier for site builders to develop the collection AND add interesting and engaging contextual information.
+<div class="container-fluid mt-4 mb-n3 bg-light p-4 " id="technical">
+    <div class="container mt-4 border rounded p-4 bg-white">
+        <h3>Technical Credits - CollectionBuilder</h3>
+        <div class="row my-2 justify-content-center">
+            <div class="col-md-8 p-4">
+                <p>This digital collection is built with <a href="https://collectionbuilder.github.io/" target="_blank" rel="noopener">CollectionBuilder</a>, an open source framework for creating digital collection and exhibit websites that is developed by faculty librarians at the University of Idaho Library following the <a href="https://lib-static.github.io" target="_blank" rel="noopener">Lib-Static</a> methodology.</p>
+                <p>The site started from the <a href="https://github.com/CollectionBuilder/collectionbuilder-gh" target="_blank" rel="noopener">CollectionBuilder-GH</a> template which utilizes the static website generator <a href="https://jekyllrb.com/" target="_blank" rel="noopener">Jekyll</a> and <a href="https://pages.github.com/" target="_blank" rel="noopener">GitHub Pages</a> to build and host digital collections and exhibits.</p>
+            </div>
+            <div class="col-md-4 text-center">
+                <h4>More Information Available</h4>
+                <a class="btn btn-outline-primary my-2" target="_blank" rel="noopener" href="https://collectionbuilder.github.io/about.html">Technical Specifications</a>
+                <br>
+                <a class="btn btn-outline-secondary my-2" target="_blank" rel="noopener" href="https://collectionbuilder.github.io/about.html#support">IMLS Support</a>
+            </div>
+        </div>
+    </div>
+</div>
 
-Each "include" file has several options, which are documented in the files themselves--copy the examples to see how it works with your content! In the demo below, we've given display widths of 25% and 50% to save space, but you can feature the entire image or document.
-
-You can also see a page featuring a bonanza of feature includes options on our CollectionBuilder-GH demo site.
-
-{% include feature/button.html text="Feature Includes Bonanza page" link="https://collectionbuilder.github.io/collectionbuilder-gh/feature_options.html" color="primary" size="lg" centered=true %}
-
-Include Collection Items
-The template provides includes to pull your collection objects and metadata into your interpretive page, allowing you to write with your materials directly embedded in the content.
-
-Include an Image
-Image --> {% raw %}{% include feature/image.html objectid="demo_001" width="75" %}{% endraw %}
-{% include feature/image.html objectid=imagesampleid width="75" %}
-
-Include a PDF
-PDF -- > {% raw %}{% include feature/pdf.html objectid="demo_002"  width="50" %}{% endraw %}
-{% include feature/pdf.html objectid=pdfsampleid width="50" %}
-
-Include a Video
-Video: {% raw %}{% include feature/video.html objectid="demo_004" %}{% endraw %}
-{% include feature/video.html objectid=videosampleid width="75" %}
-
-Include an Audio File
-Audio: {% raw %}{% include feature/audio.html objectid="demo_003" %}{% endraw %}
-{% include feature/audio.html objectid=audiosampleid %}
-
-Include Bootstrap Features
-The template also provides includes to make it easier to add Bootstrap components to your Markdown writing. These features allow you to better organize and highlight your content.
-
-Include a Card
-Card -- > {% raw %}{% include feature/card.html header="This is a Card" text="The card features an image from the collection as a cap" objectid="demo004" width="25" centered=true %}{% endraw %}
-{% include feature/card.html header="This is a Card" text="The card features an image from the collection as a cap" objectid="demo_001" width="25" centered=true %}
-
-Include a Button
-Buttons -- > {% raw %}{% include feature/button.html text="Button Link to Somewhere" link="https://collectionbuilder.github.io/" color="success" %}{% endraw %}
-{% include feature/button.html text="Button Link to Somewhere" link="https://collectionbuilder.github.io/" color="success" centered=true %}
-
-Include an Alert
-Alerts -- > {% raw %}{% include feature/alert.html text="this is an *alert* that 'warns' a user" color="warning" align="center" %}{% endraw %}
-{% include feature/alert.html text="This is an alert that 'warns' a user with centrally aligned text." color="warning" align="center" %}
-
-Include a Modal
-Modals -- > {% raw %}{% include feature/modal.html button="This is a modal using a 'primary' colored button to invite clicking" title="when clicked:" text="A Modal will pop out a box with some more information" color="primary"  %}{% endraw %}
-{% include feature/modal.html button="This is a modal using a 'primary' colored button to invite clicking" title="When clicked:" text="A Modal will pop out a box with some more information" color="primary" %}
 
 
 ## Galería
