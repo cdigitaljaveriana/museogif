@@ -8,6 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 {% include feature/nav-menu.html sections="Sobre este proyecto;Créditos;Galería" %}
+
 ## Sobre este proyecto
 Praesent sodales tempor suscipit. Maecenas at euismod nunc. Integer in consectetur neque, at lacinia tellus. Quisque dui lectus, semper sed euismod a, pretium eu diam. Quisque quam eros, tempus vel nulla quis, lacinia tincidunt eros. Quisque dictum ornare lacinia. Maecenas ligula metus, iaculis sollicitudin ornare at, mattis eu dolor. Aliquam massa velit, ultrices at dui et, porta pulvinar nibh. 
 
