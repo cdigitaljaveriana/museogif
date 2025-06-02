@@ -9,9 +9,9 @@ credits: true
 ---
 
 ## Sobre este proyecto
-El proyecto MUSEO-GIF: Independencias, ciudadanías y memorias datificadas parte de la pregunta: ¿Qué hallazgos pueden surgir de la digitalización y datificación de la colección del Museo de la Independencia – Casa del Florero?. 
+El proyecto __MUSEO-GIF: Independencias, ciudadanías y memorias datificadas__, parte de la pregunta: ¿Qué hallazgos pueden surgir de la digitalización y datificación de la colección del Museo de la Independencia – Casa del Florero?. 
 
-Esta iniciativa propone digitalizar y datificar piezas museales y utilizar para explorar posibles hallazgos sobre colección permanente del museo. Como parte del ejercicio se revisan conceptos de humanidades digitales de Johanna Drucker y Anne Burdick, los planteamientos de Lev Manovich sobre colecciones digitales y en las perspectivas de Karin van Es y Mirko Tobías Schäfer sobre datificación en la investigación humanística.
+Esta iniciativa propone digitalizar, intervenir y datificar piezas museales para explorar posibles hallazgos en torno a la colección permanente del museo. Como parte del ejercicio, se revisan las líneas de investigación del museo (independencias, ciudadanías y memorias), junto con conceptos de humanidades digitales de Johanna Drucker y Anne Burdick, los planteamientos de Lev Manovich sobre colecciones digitales, y las perspectivas de Karin van Es y Mirko Tobías Schäfer sobre la datificación en la investigación humanística.
 
 <br><br>
 
