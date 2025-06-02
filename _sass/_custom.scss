@@ -10,7 +10,6 @@
 
 
 
-
 a:hover.btn-outline-primary {
     background-color: white!important;
     border-color: white!important;
@@ -309,6 +308,11 @@ background-size: 22px 22px;
     border-color: #0078A8;
     border-radius: 0px;
 }
+
+
+
+
+
 .btn-outline-dark {
     color: #0078A8;
     border-color: #0078A8;
@@ -327,8 +331,9 @@ background-size: 22px 22px;
 
 .bg-dark {
 	--bs-bg-opacity: 1;
-	background-color: rgba(227, 227, 227, 0.7) !important;
+	background-color: rgba(227, 227, 227, 0.8) !important;
 }
+
 
 
 .navbar-dark .navbar-nav .nav-link {
