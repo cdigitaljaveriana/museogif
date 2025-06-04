@@ -4,20 +4,36 @@ layout: page
 permalink: /dataviz.html
 ---
 ## Analítica visual
+Tablero de visualizaciones.
 
-Análisis visual de los temas tratados en las animaciones de esta colección.
+<div class="container-fluid">
+ 
+<div class="row">  
+  <div class="col-sm-6" style="background-color:#ffffff;">
+    <div class="flourish-embed flourish-chart" data-src="visualisation/23536394">
+         <script src="https://public.flourish.studio/resources/embed.js"></script>
+         <noscript>
+         <img src="https://public.flourish.studio/visualisation/23536394/thumbnail" width="70%" alt="chart visualization" />
+         </noscript>
+    </div>
+   </div>
+  
+ <div class="col-sm-6" style="background-color:#ffffff;">
+  <div class="flourish-embed flourish-chart" data-src="visualisation/23553301"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/23553301/thumbnail" width="100%" alt="chart visualization" /></noscript>
+   </div>
+  </div>
+    </div>
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/23536394">
-  <script src="https://public.flourish.studio/resources/embed.js"></script>
-  <noscript>
-    <img src="https://public.flourish.studio/visualisation/23536394/thumbnail" width="70%" alt="chart visualization" />
-  </noscript>
+
+<div class="row">  
+  <div class="col-sm-6" style="background-color:#ffffff;">
+   <div class="flourish-embed flourish-chart" data-src="visualisation/23543847"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/23543847/thumbnail" width="100%" alt="chart visualization" /></noscript>
+   </div>
+   </div>
+  
+ <div class="col-sm-6" style="background-color:#ffffff;">
+ <div class="flourish-embed flourish-hierarchy" data-src="visualisation/23577699"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/23577699/thumbnail" width="100%" alt="hierarchy visualization" /></noscript></div>
+</div>    
+ </div>
+
 </div>
-
-
-<div class="flourish-embed flourish-chart" data-src="visualisation/23553301"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/23553301/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
-
-<div class="flourish-embed flourish-chart" data-src="visualisation/23543847"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/23543847/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
-
-<div class="flourish-embed flourish-hierarchy" data-src="visualisation/23577699"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/23577699/thumbnail" width="100%" alt="hierarchy visualization" /></noscript></div>
-
