@@ -41,7 +41,7 @@ Tablero de visualizaciones.
 
 
 <div class="row">  
-  <div class="col-sm-1" style="background-color:#ffffff;">
+  <div class="col-sm-12" style="background-color:#ffffff;">
     <div class="flourish-embed flourish-hierarchy" data-src="visualisation/23592840"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/23592840/thumbnail" width="100%" alt="hierarchy visualization" /></noscript>
     </div>
    </div>
