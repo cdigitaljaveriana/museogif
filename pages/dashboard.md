@@ -12,8 +12,7 @@ credits: true
   <h1>Analítica Visual</h1>
   <p>Análisis visual de los temas tratados en las animaciones de esta colección.</p>
  
-  <div class="row">
-   
+<div class="row">  
   <div class="col-sm-6" style="background-color:#f9f5f4;">
     <div class="flourish-embed flourish-chart" data-src="visualisation/23536394">
          <script src="https://public.flourish.studio/resources/embed.js"></script>
@@ -23,10 +22,35 @@ credits: true
     </div>
    </div>
   
-  <div class="col-sm-6" style="background-color:#e5eef3;">
-    <div class="flourish-embed flourish-chart" data-src="visualisation/23553301"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/23553301/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
-    </div>
-
- 
+ <div class="col-sm-6" style="background-color:#e5eef3;">
+  <div class="flourish-embed flourish-chart" data-src="visualisation/23553301"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/23553301/thumbnail" width="100%" alt="chart visualization" /></noscript>
+   </div>
   </div>
+
+
+<div class="row">  
+  <div class="col-sm-6" style="background-color:#f9f5f4;">
+    <div class="flourish-embed flourish-chart" data-src="visualisation/23536394">
+         <script src="https://public.flourish.studio/resources/embed.js"></script>
+         <noscript>
+         <img src="https://public.flourish.studio/visualisation/23536394/thumbnail" width="70%" alt="chart visualization" />
+         </noscript>
+    </div>
+   </div>
+  
+ <div class="col-sm-6" style="background-color:#e5eef3;">
+  <div class="flourish-embed flourish-chart" data-src="visualisation/23553301"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/23553301/thumbnail" width="100%" alt="chart visualization" /></noscript>
+   </div>
+  </div>
+
+
+
+    
+</div>
+
+
+
+
+
+
 </div>
