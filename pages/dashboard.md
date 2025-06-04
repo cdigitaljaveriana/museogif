@@ -13,7 +13,7 @@ credits: true
   <p>Tablero de visualizaciones.</p>
  
 <div class="row">  
-  <div class="col-sm-6" style="background-color:#f9f5f4;">
+  <div class="col-sm-6" style="background-color:#ffffff;">
     <div class="flourish-embed flourish-chart" data-src="visualisation/23536394">
          <script src="https://public.flourish.studio/resources/embed.js"></script>
          <noscript>
@@ -22,7 +22,7 @@ credits: true
     </div>
    </div>
   
- <div class="col-sm-6" style="background-color:#e5eef3;">
+ <div class="col-sm-6" style="background-color:#ffffff;">
   <div class="flourish-embed flourish-chart" data-src="visualisation/23553301"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/23553301/thumbnail" width="100%" alt="chart visualization" /></noscript>
    </div>
   </div>
@@ -30,12 +30,12 @@ credits: true
 
 
 <div class="row">  
-  <div class="col-sm-6" style="background-color:#f9f5f4;">
+  <div class="col-sm-6" style="background-color:#ffffff;">
    <div class="flourish-embed flourish-chart" data-src="visualisation/23543847"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/23543847/thumbnail" width="100%" alt="chart visualization" /></noscript>
    </div>
    </div>
   
- <div class="col-sm-6" style="background-color:#e5eef3;">
+ <div class="col-sm-6" style="background-color:#ffffff;">
  <div class="flourish-embed flourish-hierarchy" data-src="visualisation/23577699"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/23577699/thumbnail" width="100%" alt="hierarchy visualization" /></noscript></div>
 </div>    
  </div>
