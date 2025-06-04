@@ -10,7 +10,7 @@ credits: true
 
 <div class="container-fluid">
   <h1>Analítica Visual</h1>
-  <p>Análisis visual de los temas tratados en las animaciones de esta colección.</p>
+  <p>Análisis visual de la colección.</p>
  
 <div class="row">  
   <div class="col-sm-6" style="background-color:#f9f5f4;">
