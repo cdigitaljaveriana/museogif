@@ -9,10 +9,12 @@ credits: true
 ---
   <h1>Experimentos Analítica Visual </h1>
   <p>Tableros de visualizaciones.</p>
+  
 
   {% include feature/nav-menu.html sections="colección museo gif;colección casa del florero" %}
 
-#colección museo gif
+
+## colección museo gif
 
 <div class="container-fluid">
 <div class="row">  
@@ -47,5 +49,5 @@ credits: true
 
 </div>
 
-#colección casa del florero
+## colección casa del florero
 
