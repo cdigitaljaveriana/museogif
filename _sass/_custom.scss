@@ -190,7 +190,7 @@ tbody, td, tfoot, th, thead, tr {
 
 .TL{
     flex: 0 0 auto;
-    width: 9% !important;
+    width: 7% !important;
 
 }
 
@@ -415,13 +415,4 @@ background-size: 22px 22px;
     text-align: center !important;
 }
 
-/* Small devices (portrait tablets and large phones, 600px and up) */
-@media only screen and (min-width: 600px) {	
-.TL {width: 18%!important;}
-	}
-
-/* Extra small devices (phones, 600px and down) */
-@media only screen and (max-width: 600px) {
-.TL {width: 18%!important;}
-}
 
