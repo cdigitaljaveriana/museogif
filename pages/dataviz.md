@@ -10,7 +10,7 @@ Tablero de visualizaciones.
 
 {% include feature/nav-menu2.html sections="colección museo gif;colección casa del florero" %}
 
-<br><br>
+<br>
 
 ## colección museo gif
 
