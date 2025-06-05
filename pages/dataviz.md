@@ -6,9 +6,11 @@ permalink: /dataviz.html
 ## Analítica visual
 Tablero de visualizaciones.
 
+<br>
 
 {% include feature/nav-menu2.html sections="colección museo gif;colección casa del florero" %}
 
+<br>
 
 ## colección museo gif
 
