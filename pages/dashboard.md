@@ -9,11 +9,11 @@ credits: true
 ---
 ## colección museo gif
 <p>Tableros de visualización.</p>
-<br>
+
 
 {% include feature/nav-menu2.html sections="colección museo gif;colección casa del florero" %}
 
-<br>
+
 
 ## colección museo gif
 
