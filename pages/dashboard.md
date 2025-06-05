@@ -8,6 +8,25 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
+<ul class="nav nav-tabs">
+  <li class="nav-item">
+    <a class="nav-link active" aria-current="page" href="#">Active</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#">Link</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#">Link</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+  </li>
+</ul>
+
+
+
+
+
 <div class="container-fluid">
   <h1>Analítica Visual</h1>
   <p>Tablero de visualizaciones.</p>
