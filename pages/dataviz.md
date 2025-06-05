@@ -8,6 +8,7 @@ Tablero de visualizaciones.
 
 {% include feature/nav-menu2.html sections="colección museo gif;colección casa del florero" %}
 
+<br>
 
 ### colección museo gif
 Visualizaciones a partir de los datos obtenidos de la colección de animaciones creadas con la colección original del Museo de la Independencia.
