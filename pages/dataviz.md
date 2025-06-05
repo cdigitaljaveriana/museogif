@@ -10,6 +10,7 @@ Tablero de visualizaciones.
 
 
 ## colección museo gif
+Visualizaciones a partir de los datos obtenidos de la colección de animaciones creadas con la colección original del Museo de la Independencia.
 
 <div class="container-fluid">
  
@@ -57,7 +58,8 @@ Tablero de visualizaciones.
 
 ## colección casa del florero
 
- <p>-En Construcción-</p>
+Visualizaciones a partir de la colección original del Museo de la Independencia.
+- En construcción -
 
 
 
