@@ -104,3 +104,11 @@ credits: true
  </div>
 
 </div>
+
+
+<!-- MDB UI Kit JS (ESM) -->
+<script type="module">
+  import { Tab, initMDB } from 'https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.4.0/mdb.es.min.js';
+
+  initMDB({ Tab });
+</script>
