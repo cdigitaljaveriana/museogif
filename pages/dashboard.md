@@ -7,7 +7,7 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-  <h1>Analítica Visual</h1>
+  <h1>Experimentos Analítica Visual </h1>
   <p>Tableros de visualizaciones.</p>
 
 <div class="container-fluid">
