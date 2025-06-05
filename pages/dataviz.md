@@ -54,9 +54,11 @@ Tablero de visualizaciones.
  </div>
 
 
+</div>
+
 ## colección casa del florero
-<br>
+
  <p>-En Construcción-</p>
 
 
-</div>
+
