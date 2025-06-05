@@ -7,6 +7,9 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
+  <h1>Analítica Visual</h1>
+  <p>Tablero de visualizaciones.</p>
+
 
 <ul class="nav nav-tabs">
   <li class="nav-item">
@@ -28,9 +31,6 @@ credits: true
 
 
 <div class="container-fluid">
-  <h1>Analítica Visual</h1>
-  <p>Tablero de visualizaciones.</p>
- 
 <div class="row">  
   <div class="col-sm-6" style="background-color:#ffffff;">
     <div class="flourish-embed flourish-chart" data-src="visualisation/23536394">
