@@ -18,7 +18,8 @@ credits: true
 ## colección museo gif
 
 <div class="container-fluid">
-<div class="row">  
+
+ <div class="row">  
   <div class="col-sm-6" style="background-color:#ffffff;">
     <div class="flourish-embed flourish-chart" data-src="visualisation/23536394">
          <script src="https://public.flourish.studio/resources/embed.js"></script>
@@ -31,8 +32,8 @@ credits: true
  <div class="col-sm-6" style="background-color:#ffffff;">
   <div class="flourish-embed flourish-chart" data-src="visualisation/23553301"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/23553301/thumbnail" width="100%" alt="chart visualization" /></noscript>
    </div>
-  </div>
-    </div>
+ </div>
+</div>
 
 
 <div class="row">  
@@ -41,13 +42,14 @@ credits: true
    </div>
    </div>
   
- <div class="col-sm-6" style="background-color:#ffffff;">
- <div class="flourish-embed flourish-hierarchy" data-src="visualisation/23577699"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/23577699/thumbnail" width="100%" alt="hierarchy visualization" /></noscript></div>
-</div>    
+  <div class="col-sm-6" style="background-color:#ffffff;">
+    <div class="flourish-embed flourish-hierarchy" data-src="visualisation/23577699"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/23577699/thumbnail" width="100%" alt="hierarchy visualization" /></noscript>
+    </div>    
+  </div>
  </div>
-</div>
 
 </div>
+
 
 ## colección casa del florero
 <br>
