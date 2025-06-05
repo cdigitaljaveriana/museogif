@@ -11,7 +11,7 @@ credits: true
   <p>Tableros de visualizaciones.</p>
   
 
-  {% include feature/nav-menu.html sections="colección museo gif;colección casa del florero" %}
+  {% include feature/nav-menu2.html sections="colección museo gif;colección casa del florero" %}
 
 
 ## colección museo gif
