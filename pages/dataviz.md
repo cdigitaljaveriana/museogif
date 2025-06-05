@@ -11,7 +11,7 @@ Tablero de visualizaciones.
 <br>
 
 #### museo-gif
-Visualizaciones a partir de los datos obtenidos de la colección de animaciones creadas con la colección original del Museo de la Independencia.
+Visualizaciones generadas a partir de los datos extraídos de la serie de animaciones desarrolladas con base en la colección original del Museo de la Independencia.
 
 <div class="container-fluid">
  
