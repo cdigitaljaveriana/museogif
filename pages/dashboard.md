@@ -7,13 +7,14 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-  <h1>Experimentos Analítica Visual </h1>
-  <p>Tableros de visualizaciones.</p>
-  
+## colección museo gif
+<p>Tableros de visualización.</p>
+<br>
 
-  {% include feature/nav-menu2.html sections="colección museo gif;colección casa del florero" %}
+{% include feature/nav-menu2.html sections="colección museo gif;colección casa del florero" %}
 
 <br>
+
 ## colección museo gif
 
 <div class="container-fluid">
@@ -44,10 +45,9 @@ credits: true
  <div class="flourish-embed flourish-hierarchy" data-src="visualisation/23577699"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/23577699/thumbnail" width="100%" alt="hierarchy visualization" /></noscript></div>
 </div>    
  </div>
-
 </div>
 
-
+</div>
 
 ## colección casa del florero
 <br>
