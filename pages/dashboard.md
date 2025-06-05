@@ -23,9 +23,8 @@ credits: true
   <div class="col-sm-6" style="background-color:#ffffff;">
     <div class="flourish-embed flourish-chart" data-src="visualisation/23536394">
          <script src="https://public.flourish.studio/resources/embed.js"></script>
-         <noscript>
-         <img src="https://public.flourish.studio/visualisation/23536394/thumbnail" width="70%" alt="chart visualization" />
-         </noscript>
+         <noscript><img 
+src="https://public.flourish.studio/visualisation/23536394/thumbnail" width="70%" alt="chart visualization" /></noscript>
     </div>
    </div>
   
@@ -52,5 +51,4 @@ credits: true
 
 
 ## colección casa del florero
-<br>
  <p>-En Construcción-</p>
