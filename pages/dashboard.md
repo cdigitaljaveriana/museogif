@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
   <h1>Analítica Visual</h1>
-  <p>Tablero de visualizaciones.</p>
+  <p>Tableros de visualizaciones.</p>
 
 
 <ul class="nav nav-tabs">
@@ -26,7 +26,11 @@ credits: true
   </li>
 </ul>
 
-
+<div class="container-fluid">
+<div class="row">  
+ <p>Tablero 1</p>
+</div>
+</div>
 
 
 
