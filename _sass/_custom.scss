@@ -407,6 +407,12 @@ background-size: 22px 22px;
     margin-bottom: 0!important;
 }
 
+.about-nav {
+    line-height: 1.5em;
+    z-index: 10;
+    background-color: #ffe400f5 !important;
+    border-radius: 90px;
+}
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {	
