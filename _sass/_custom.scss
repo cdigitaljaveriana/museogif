@@ -416,3 +416,8 @@ background-size: 22px 22px;
 }
 
 
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+.TL {width: 18%!important;}
+}
