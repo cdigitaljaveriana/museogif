@@ -59,7 +59,7 @@ Visualizaciones a partir de los datos obtenidos de la colección de animaciones 
 ## colección casa del florero
 
 Visualizaciones a partir de la colección original del Museo de la Independencia.
-- En construcción -
+- En construcción
 
 
 
