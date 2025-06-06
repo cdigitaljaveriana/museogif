@@ -415,11 +415,18 @@ background-size: 22px 22px;
     text-align: center !important;
 }
 
+
 .mapa {
-    padding-top: 1.8rem;
-    padding-left: 10%;
     background-color: rgba(242,242,242,0.9);
+    --bs-gutter-x: 1rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(-1 * var(--bs-gutter-y));
+    margin-right: calc(-.5 * var(--bs-gutter-x));
+    margin-left: calc(-.5 * var(--bs-gutter-x));
 }
+
 
 #map {
     height: 550px;
