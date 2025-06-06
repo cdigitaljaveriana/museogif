@@ -10,7 +10,7 @@ Tablero de visualizaciones.
 
 <br>
 
-#### museo-gif
+#### __museo-gif__
 Visualizaciones generadas a partir de los datos extraídos de la serie de animaciones desarrolladas con base en la colección original del Museo de la Independencia.
 
 <div class="container-fluid">
@@ -57,7 +57,7 @@ Visualizaciones generadas a partir de los datos extraídos de la serie de animac
 
 </div>
 
-#### casa del florero
+#### __casa del florero__
 
 Visualizaciones a partir de la colección original del Museo de la Independencia.
 - En construcción
